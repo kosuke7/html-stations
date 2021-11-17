@@ -1,0 +1,16 @@
+[1mdiff --git "a/cypress/screenshots/station1.spec.ts/Station1 -- `img`\343\202\277\343\202\260\343\201\253`src`\345\261\236\346\200\247\343\201\214\343\201\202\343\202\213 (failed).png" "b/cypress/screenshots/station1.spec.ts/Station1 -- `img`\343\202\277\343\202\260\343\201\253`src`\345\261\236\346\200\247\343\201\214\343\201\202\343\202\213 (failed).png"[m
+[1mindex 2d31d95..334374b 100644[m
+Binary files "a/cypress/screenshots/station1.spec.ts/Station1 -- `img`\343\202\277\343\202\260\343\201\253`src`\345\261\236\346\200\247\343\201\214\343\201\202\343\202\213 (failed).png" and "b/cypress/screenshots/station1.spec.ts/Station1 -- `img`\343\202\277\343\202\260\343\201\253`src`\345\261\236\346\200\247\343\201\214\343\201\202\343\202\213 (failed).png" differ
+[1mdiff --git a/src/station1.html b/src/station1.html[m
+[1mindex d73d3ba..25586d8 100644[m
+[1m--- a/src/station1.html[m
+[1m+++ b/src/station1.html[m
+[36m@@ -7,7 +7,7 @@[m
+ <title>Station 1</title>[m
+ </head>[m
+ <body>[m
+[31m-  <img src="assets/image/railway-thumbnail.png">[m
+[32m+[m[32m  <img src="/src/assets/image/railway-thumbnail.png">[m
+   <div>[m
+     <p>TechTrainの使い方</p>[m
+     <p>TechBowl</p>[m
